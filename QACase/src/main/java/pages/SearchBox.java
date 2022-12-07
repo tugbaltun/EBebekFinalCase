@@ -14,14 +14,6 @@ public class SearchBox extends BasePage{
         super(driver);
     }
 
-    public void search(String text) {
-        WebElement searchBox = driver.findElement(searchBoxLocator);
-        isDisplayed(searchBoxLocator);
-        click(searchBoxLocator);
-        type(searchBoxLocator, text);
-        searchBox.sendKeys(Keys.ENTER);
-    }
-
     public boolean searchResult(String text) {
         isDisplayed(searchBoxLocator);
         click(searchBoxLocator);

@@ -3,10 +3,13 @@ package pages;
 import browsers.BrowserFactory;
 import exceptions.BrowserException;
 import org.junit.jupiter.api.*;
+import org.junit.jupiter.api.extension.ExtendWith;
 import org.openqa.selenium.WebDriver;
+import testLogger.TestResultLogger;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
+@ExtendWith(TestResultLogger.class)
 public class BaseTest {
 
     WebDriver driver;
@@ -20,6 +23,6 @@ public class BaseTest {
 
     @AfterAll
     void tearDown(){
-
+        driver.quit();
     }
 }

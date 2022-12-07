@@ -2,10 +2,7 @@ package org.example.manager.managerImpl;
 import org.example.enums.BrandName;
 import org.example.manager.BrandManager;
 import org.example.model.Brand;
-
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 

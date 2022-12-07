@@ -4,8 +4,6 @@ import lombok.Getter;
 import lombok.Setter;
 import org.example.enums.*;
 
-import java.math.BigDecimal;
-
 @Getter
 @Setter
 public class MobilePhone extends Product {

@@ -1,0 +1,12 @@
+2022-12-07 04:20:18,764 INFO  [Log] searchProduct() PASSED 
+2022-12-07 04:20:20,720 INFO  [Log] addToCart() PASSED 
+2022-12-07 04:20:22,485 INFO  [Log] goToCart() PASSED 
+2022-12-07 04:20:23,884 INFO  [Log] finishTheShopping() PASSED 
+2022-12-07 04:23:47,139 INFO  [Log] searchProduct() PASSED 
+2022-12-07 04:23:48,939 INFO  [Log] addToCart() PASSED 
+2022-12-07 04:23:50,464 INFO  [Log] goToCart() PASSED 
+2022-12-07 04:23:51,683 INFO  [Log] finishTheShopping() PASSED 
+2022-12-07 05:20:56,927 INFO  [Log] searchProduct() PASSED 
+2022-12-07 05:20:58,626 INFO  [Log] addToCart() PASSED 
+2022-12-07 05:20:59,907 INFO  [Log] goToCart() PASSED 
+2022-12-07 05:21:01,267 INFO  [Log] finishTheShopping() PASSED 

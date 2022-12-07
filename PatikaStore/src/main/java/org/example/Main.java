@@ -18,13 +18,6 @@ import java.util.List;
 
 public class Main  {
     public static void main(String[] args) throws IOException {
-//        ProductManagerImpl mobilePhoneManager = new ProductManagerImpl(new MobilePhoneManager());
-//        mobilePhoneManager.list();
-
-
-        ProductManagerImpl notebookManager = new ProductManagerImpl(new NotebookManager());
-
-
 
         PatikaStoreManager patikaStoreManager = new PatikaStoreManager();
         patikaStoreManager.run();

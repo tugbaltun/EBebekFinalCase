@@ -8,7 +8,6 @@ import org.junit.jupiter.api.*;
 
 public class FinishTheShoppingTest extends BaseTest{
     HomePage homePage;
-    ProductPage productPage;
     ProductDetailPage productDetailPage;
     CartPage cartPage;
     SignInPage signInPage;
