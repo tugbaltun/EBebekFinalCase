@@ -19,7 +19,7 @@ public class NotebookManager implements ProductManager {
         System.out.println("1- Notebook ekle\n" +
                 "2- Notebook listesini görüntüle\n" +
                 "3- Notebook sil\n" +
-                "4- Notebook id numarasına göre sırala\n" +
+                "4- Notebook id numarasına göre filtrele\n" +
                 "5- Notebook markaya göre filtrele");
         System.out.print("Yapmak istediğiniz işlemi seçiniz : ");
         int value=input.nextInt();
@@ -50,7 +50,7 @@ public class NotebookManager implements ProductManager {
 
     @Override
     public void filterById() {
-        System.out.print("Filtrelemek istediğiniz ürün markasını giriniz :");
+        System.out.print("Filtrelemek istediğiniz ürün id numarasını giriniz :");
         int filter= input.nextInt();
         ArrayList<Notebook> filterNotebooks=new ArrayList<>();
         for (Notebook n:notebookList){

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="chinesepaymentaddonspring" name="chinesepaymentaddonspring" removed="false">
+          <dependency>acceleratorstorefrontcommonsspring==acceleratorstorefrontcommons</dependency>
+          <dependency>addonsupportspring==addonsupport</dependency>
+          <dependency>chinesepaymentfacadesspring==chinesepaymentfacades</dependency>
+          <dependency>platformspring==platform</dependency>
+          <file>file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/resources/chinesepaymentaddon-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="chinesepaymentfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HybrisDeveloperSpecificProjectSettings">
+    <option name="activeRemoteConnectionID" value="58d04818-6c43-4c29-b161-88757cc1e127" />
+    <option name="activeSolrConnectionID" value="c964976e-8ff3-4ebb-9350-7b0a766f7a87" />
+    <option name="remoteConnectionSettingsList">
+      <list>
+        <HybrisRemoteConnectionSettings>
+          <option name="generatedURL" value="https://localhost:9002" />
+          <option name="hacLogin" value="admin" />
+          <option name="hacPassword" value="nimda" />
+          <option name="hostIP" value="localhost" />
+          <option name="port" value="9002" />
+          <option name="ssl" value="true" />
+          <option name="type" value="Hybris" />
+          <option name="uuid" value="58d04818-6c43-4c29-b161-88757cc1e127" />
+        </HybrisRemoteConnectionSettings>
+        <HybrisRemoteConnectionSettings>
+          <option name="adminLogin" value="solradmin" />
+          <option name="adminPassword" value="admin123" />
+          <option name="generatedURL" value="https://localhost:8983/solr" />
+          <option name="hostIP" value="localhost" />
+          <option name="port" value="8983" />
+          <option name="solrWebroot" value="solr" />
+          <option name="ssl" value="true" />
+          <option name="type" value="SOLR" />
+          <option name="uuid" value="c964976e-8ff3-4ebb-9350-7b0a766f7a87" />
+        </HybrisRemoteConnectionSettings>
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="timedaccesspromotionengineoccaddonspring" name="timedaccesspromotionengineoccaddonspring" removed="false">
+          <dependency>addonsupportspring==addonsupport</dependency>
+          <dependency>commercewebservicescommonsspring==commercewebservicescommons</dependency>
+          <dependency>platformspring==platform</dependency>
+          <dependency>timedaccesspromotionenginefacadesspring==timedaccesspromotionenginefacades</dependency>
+          <file>file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/resources/timedaccesspromotionengineoccaddon-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/timed-access-promotion-engine/timedaccesspromotionengineoccaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="commercewebservicescommons" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="timedaccesspromotionenginefacades" exported="" />
+  </component>
+</module>

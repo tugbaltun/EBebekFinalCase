@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="chineseprofileservicesspring" name="chineseprofileservicesspring" removed="false">
+          <dependency>chineseaddressservicesspring==chineseaddressservices</dependency>
+          <dependency>notificationservicesspring==notificationservices</dependency>
+          <dependency>platformspring==platform</dependency>
+          <file>file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/resources/chineseprofileservices-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-people-profile/chineseprofileservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="chineseaddressservices" exported="" />
+    <orderEntry type="module" module-name="notificationservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="chinesepaymentfacadesspring" name="chinesepaymentfacadesspring" removed="false">
+          <dependency>acceleratorfacadesspring==acceleratorfacades</dependency>
+          <dependency>chinesepaymentservicesspring==chinesepaymentservices</dependency>
+          <dependency>platformspring==platform</dependency>
+          <file>file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/resources/chinesepaymentfacades-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-payment/chinesepaymentfacades/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorfacades" exported="" />
+    <orderEntry type="module" module-name="chinesepaymentservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

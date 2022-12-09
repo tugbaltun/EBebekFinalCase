@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="chineselogisticfacadesspring" name="chineselogisticfacadesspring" removed="false">
+          <dependency>acceleratorfacadesspring==acceleratorfacades</dependency>
+          <dependency>chineselogisticservicesspring==chineselogisticservices</dependency>
+          <dependency>platformspring==platform</dependency>
+          <file>file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/resources/chineselogisticfacades-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-logistics/chineselogisticfacades/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorfacades" exported="" />
+    <orderEntry type="module" module-name="chineselogisticservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

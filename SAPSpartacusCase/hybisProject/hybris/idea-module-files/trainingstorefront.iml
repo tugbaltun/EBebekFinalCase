@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/src" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/scalasrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/gensrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/resources" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/src" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/backoffice/scalasrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="trainingstorefrontspring" name="trainingstorefrontspring" removed="false">
+          <dependency>acceleratorstorefrontcommonsspring==acceleratorstorefrontcommons</dependency>
+          <dependency>adaptivesearchsamplesaddonspring==adaptivesearchsamplesaddon</dependency>
+          <dependency>assistedservicepromotionaddonspring==assistedservicepromotionaddon</dependency>
+          <dependency>assistedservicestorefrontspring==assistedservicestorefront</dependency>
+          <dependency>chineseaddressaddonspring==chineseaddressaddon</dependency>
+          <dependency>chineselogisticaddonspring==chineselogisticaddon</dependency>
+          <dependency>chinesepaymentaddonspring==chinesepaymentaddon</dependency>
+          <dependency>chineseproductsharingaddonspring==chineseproductsharingaddon</dependency>
+          <dependency>chineseprofileaddonspring==chineseprofileaddon</dependency>
+          <dependency>chinesepspalipaysamplesaddonspring==chinesepspalipaysamplesaddon</dependency>
+          <dependency>chinesepspwechatpaymentaddonspring==chinesepspwechatpaymentaddon</dependency>
+          <dependency>chinesepspwechatpaysamplesaddonspring==chinesepspwechatpaysamplesaddon</dependency>
+          <dependency>chinesestoreaddonspring==chinesestoreaddon</dependency>
+          <dependency>chinesetaxinvoiceaddonspring==chinesetaxinvoiceaddon</dependency>
+          <dependency>commerceorgsamplesaddonspring==commerceorgsamplesaddon</dependency>
+          <dependency>consignmenttrackingaddonspring==consignmenttrackingaddon</dependency>
+          <dependency>customercouponaddonspring==customercouponaddon</dependency>
+          <dependency>customercouponsamplesaddonspring==customercouponsamplesaddon</dependency>
+          <dependency>customerinterestsaddonspring==customerinterestsaddon</dependency>
+          <dependency>customerticketingaddonspring==customerticketingaddon</dependency>
+          <dependency>notificationaddonspring==notificationaddon</dependency>
+          <dependency>orderselfserviceaddonspring==orderselfserviceaddon</dependency>
+          <dependency>pcmbackofficesamplesaddonspring==pcmbackofficesamplesaddon</dependency>
+          <dependency>personalizationsearchsamplesaddonspring==personalizationsearchsamplesaddon</dependency>
+          <dependency>promotionenginesamplesaddonspring==promotionenginesamplesaddon</dependency>
+          <dependency>selectivecartaddonspring==selectivecartaddon</dependency>
+          <dependency>smarteditaddonspring==smarteditaddon</dependency>
+          <dependency>stocknotificationaddonspring==stocknotificationaddon</dependency>
+          <dependency>textfieldconfiguratortemplateaddonspring==textfieldconfiguratortemplateaddon</dependency>
+          <dependency>timedaccesspromotionengineaddonspring==timedaccesspromotionengineaddon</dependency>
+          <dependency>timedaccesspromotionenginesamplesaddonspring==timedaccesspromotionenginesamplesaddon</dependency>
+          <dependency>trainingfacadesspring==trainingfacades</dependency>
+          <dependency>verticalnavigationaddonspring==verticalnavigationaddon</dependency>
+          <file>file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/webroot/WEB-INF/config/web-application-config.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/webroot/WEB-INF/config/spring-filter-config.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/webroot/WEB-INF/config/spring-security-config.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/webroot/WEB-INF/config/spring-mvc-config.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/core-accelerator/acceleratorcms/resources/acceleratorcms/spring/web-spring-context.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/webroot/WEB-INF/config/spring-cms-config.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/webroot/WEB-INF/config/multi-step-checkout-config.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/webroot/WEB-INF/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/custom/training/trainingstorefront/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="adaptivesearchsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="assistedservicepromotionaddon" exported="" />
+    <orderEntry type="module" module-name="assistedservicestorefront" exported="" />
+    <orderEntry type="module" module-name="chineseaddressaddon" exported="" />
+    <orderEntry type="module" module-name="chineselogisticaddon" exported="" />
+    <orderEntry type="module" module-name="chinesepaymentaddon" exported="" />
+    <orderEntry type="module" module-name="chineseproductsharingaddon" exported="" />
+    <orderEntry type="module" module-name="chineseprofileaddon" exported="" />
+    <orderEntry type="module" module-name="chinesepspalipaysamplesaddon" exported="" />
+    <orderEntry type="module" module-name="chinesepspwechatpaymentaddon" exported="" />
+    <orderEntry type="module" module-name="chinesepspwechatpaysamplesaddon" exported="" />
+    <orderEntry type="module" module-name="chinesestoreaddon" exported="" />
+    <orderEntry type="module" module-name="chinesetaxinvoiceaddon" exported="" />
+    <orderEntry type="module" module-name="commerceorgsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="consignmenttrackingaddon" exported="" />
+    <orderEntry type="module" module-name="customercouponaddon" exported="" />
+    <orderEntry type="module" module-name="customercouponsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="customerinterestsaddon" exported="" />
+    <orderEntry type="module" module-name="customerticketingaddon" exported="" />
+    <orderEntry type="module" module-name="notificationaddon" exported="" />
+    <orderEntry type="module" module-name="orderselfserviceaddon" exported="" />
+    <orderEntry type="module" module-name="pcmbackofficesamplesaddon" exported="" />
+    <orderEntry type="module" module-name="personalizationsearchsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="promotionenginesamplesaddon" exported="" />
+    <orderEntry type="module" module-name="selectivecartaddon" exported="" />
+    <orderEntry type="module" module-name="smarteditaddon" exported="" />
+    <orderEntry type="module" module-name="stocknotificationaddon" exported="" />
+    <orderEntry type="module" module-name="textfieldconfiguratortemplateaddon" exported="" />
+    <orderEntry type="module" module-name="timedaccesspromotionengineaddon" exported="" />
+    <orderEntry type="module" module-name="timedaccesspromotionenginesamplesaddon" exported="" />
+    <orderEntry type="module" module-name="trainingfacades" exported="" />
+    <orderEntry type="module" module-name="verticalnavigationaddon" exported="" />
+  </component>
+</module>

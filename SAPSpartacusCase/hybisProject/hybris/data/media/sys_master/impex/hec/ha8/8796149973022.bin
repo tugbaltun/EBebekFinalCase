@@ -1,0 +1,19 @@
+$siteUid=electronics
+$supportedUiExperienceLevels=
+$storeUid=electronics
+$channel=b2c
+$solrIndexedType=electronicsProductType
+$addonExtensionName=commerceorgsamplesaddon
+$contentCatalog=electronicsContentCatalog
+$configExtensionName=commerceorgsamplesaddon
+$productCatalog=electronicsProductCatalog
+# -----------------------------------------------------------------------
+# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
+# -----------------------------------------------------------------------
+######
+## PARAMETERS REQUIRED FOR THIS SCRIPT
+##
+##   * contentCatalog   - content catalog id
+##   * addonExtensionName - extension name of the ui addon
+#######
+$contentCV=catalogVersion(CatalogVersion.catalog(Catalog.id[default=$contentCatalog]),CatalogVersion.version[default=Staged])[default=$contentCatalog:Staged]

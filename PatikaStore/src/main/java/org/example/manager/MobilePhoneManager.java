@@ -20,7 +20,7 @@ public class MobilePhoneManager implements ProductManager {
         System.out.println("1- Telefon ekle\n" +
                 "2- Telefon listesini görüntüle\n" +
                 "3- Telefon sil\n" +
-                "4- Telefon id numarasına göre sırala\n" +
+                "4- Telefon id numarasına göre filtrele\n" +
                 "5- Telefon markaya göre filtrele");
         System.out.print("Yapmak istediğiniz işlemi seçiniz : ");
         int value=input.nextInt();
@@ -51,7 +51,7 @@ public class MobilePhoneManager implements ProductManager {
 
     @Override
     public void filterById() {
-        System.out.print("Filtrelemek istediğiniz ürün idsini giriniz :");
+        System.out.print("Filtrelemek istediğiniz ürün id numarası giriniz :");
         int filter= input.nextInt();
         ArrayList<MobilePhone> filterPhones=new ArrayList<>();
         for (MobilePhone n:phoneList){

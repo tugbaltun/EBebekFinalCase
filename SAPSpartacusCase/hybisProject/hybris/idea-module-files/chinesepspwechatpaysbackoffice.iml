@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="chinesepspwechatpaysbackofficespring" name="chinesepspwechatpaysbackofficespring" removed="false">
+          <dependency>backofficespring==backoffice</dependency>
+          <dependency>chinesepspwechatpayservicesspring==chinesepspwechatpayservices</dependency>
+          <dependency>platformspring==platform</dependency>
+          <file>file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/resources/chinesepspwechatpaysbackoffice-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/bin/chinesepspwechatpaysbackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../bin/modules/china-accelerator-wechat-psp/chinesepspwechatpaysbackoffice/bin/chinesepspwechatpaysbackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="module" module-name="chinesepspwechatpayservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

@@ -1,0 +1,11 @@
+#Ant properties
+#Wed Nov 02 08:35:15 CET 2022
+version.api=1905
+vendor=hybris
+group.id=de.hybris.platform
+name=ldap
+description=ldap
+builddate=20221102 0833
+releasedate=20190628 1509
+version=1905.48
+module.name=platform-module

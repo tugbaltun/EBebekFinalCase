@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/EBebekFinalCase.iml" filepath="$PROJECT_DIR$/.idea/EBebekFinalCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SAPSpartacusCase/SAPSpartacusCase.iml" filepath="$PROJECT_DIR$/SAPSpartacusCase/SAPSpartacusCase.iml" />
     </modules>
   </component>
 </project>

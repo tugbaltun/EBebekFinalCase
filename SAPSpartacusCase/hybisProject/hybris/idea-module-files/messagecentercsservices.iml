@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="messagecentercsservicesspring" name="messagecentercsservicesspring" removed="false">
+          <dependency>acceleratorservicesspring==acceleratorservices</dependency>
+          <dependency>platformspring==platform</dependency>
+          <file>file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/resources/messagecentercsservices-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="selectivecartaddonspring" name="selectivecartaddonspring" removed="false">
+          <dependency>acceleratorstorefrontcommonsspring==acceleratorstorefrontcommons</dependency>
+          <dependency>addonsupportspring==addonsupport</dependency>
+          <dependency>platformspring==platform</dependency>
+          <dependency>selectivecartfacadesspring==selectivecartfacades</dependency>
+          <file>file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/resources/selectivecartaddon-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/selective-cart/selectivecartaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="selectivecartfacades" exported="" />
+  </component>
+</module>

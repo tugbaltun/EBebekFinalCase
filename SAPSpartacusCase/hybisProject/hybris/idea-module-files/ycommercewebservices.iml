@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/resources" />
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="ycommercewebservicesspring" name="ycommercewebservicesspring" removed="false">
+          <dependency>acceleratorwebservicesaddonspring==acceleratorwebservicesaddon</dependency>
+          <dependency>chineseaddressoccaddonspring==chineseaddressoccaddon</dependency>
+          <dependency>chineselogisticoccaddonspring==chineselogisticoccaddon</dependency>
+          <dependency>chinesepaymentoccaddonspring==chinesepaymentoccaddon</dependency>
+          <dependency>chineseprofileoccaddonspring==chineseprofileoccaddon</dependency>
+          <dependency>chinesetaxinvoiceoccaddonspring==chinesetaxinvoiceoccaddon</dependency>
+          <dependency>cmsoccaddonspring==cmsoccaddon</dependency>
+          <dependency>commercefacadesspring==commercefacades</dependency>
+          <dependency>commercewebservicescommonsspring==commercewebservicescommons</dependency>
+          <dependency>consignmenttrackingoccaddonspring==consignmenttrackingoccaddon</dependency>
+          <dependency>customercouponoccaddonspring==customercouponoccaddon</dependency>
+          <dependency>customerinterestsoccaddonspring==customerinterestsoccaddon</dependency>
+          <dependency>messagecentercsoccaddonspring==messagecentercsoccaddon</dependency>
+          <dependency>notificationoccaddonspring==notificationoccaddon</dependency>
+          <dependency>platformspring==platform</dependency>
+          <dependency>timedaccesspromotionengineoccaddonspring==timedaccesspromotionengineoccaddon</dependency>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/resources/ycommercewebservices-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/ycommercewebservices-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/v2-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/v2/dto-level-mappings-v2-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/v2/dto-mappings-v2-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/v2/jaxb-converters-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/v2/error-config-v2-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/v2/filter-config-v2-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/v2/security-v2-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/v2/validators-v2-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/common-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/common/xstream-converters-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/common/cache-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/common/error-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/common/filter-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/config/common/security-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/commerce-services/ycommercewebservices/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorwebservicesaddon" exported="" />
+    <orderEntry type="module" module-name="chineseaddressoccaddon" exported="" />
+    <orderEntry type="module" module-name="chineselogisticoccaddon" exported="" />
+    <orderEntry type="module" module-name="chinesepaymentoccaddon" exported="" />
+    <orderEntry type="module" module-name="chineseprofileoccaddon" exported="" />
+    <orderEntry type="module" module-name="chinesetaxinvoiceoccaddon" exported="" />
+    <orderEntry type="module" module-name="cmsoccaddon" exported="" />
+    <orderEntry type="module" module-name="commercefacades" exported="" />
+    <orderEntry type="module" module-name="commercewebservicescommons" exported="" />
+    <orderEntry type="module" module-name="consignmenttrackingoccaddon" exported="" />
+    <orderEntry type="module" module-name="customercouponoccaddon" exported="" />
+    <orderEntry type="module" module-name="customerinterestsoccaddon" exported="" />
+    <orderEntry type="module" module-name="messagecentercsoccaddon" exported="" />
+    <orderEntry type="module" module-name="notificationoccaddon" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="timedaccesspromotionengineoccaddon" exported="" />
+  </component>
+</module>

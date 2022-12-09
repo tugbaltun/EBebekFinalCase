@@ -10,3 +10,11 @@
 2022-12-07 05:20:58,626 INFO  [Log] addToCart() PASSED 
 2022-12-07 05:20:59,907 INFO  [Log] goToCart() PASSED 
 2022-12-07 05:21:01,267 INFO  [Log] finishTheShopping() PASSED 
+2022-12-07 14:32:56,183 INFO  [Log] searchProduct() PASSED 
+2022-12-07 14:32:58,339 INFO  [Log] addToCart() PASSED 
+2022-12-07 14:33:00,163 INFO  [Log] goToCart() PASSED 
+2022-12-07 14:33:01,607 INFO  [Log] finishTheShopping() PASSED 
+2022-12-07 14:47:40,632 INFO  [Log] searchProduct() PASSED 
+2022-12-07 14:47:42,492 INFO  [Log] addToCart() PASSED 
+2022-12-07 14:47:44,268 INFO  [Log] goToCart() PASSED 
+2022-12-07 14:47:45,696 INFO  [Log] finishTheShopping() PASSED 

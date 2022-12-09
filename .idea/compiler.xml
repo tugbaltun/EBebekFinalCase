@@ -11,5 +11,9 @@
         <module name="PatikaStore" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SAPSpartacus" target="11" />
+      <module name="SAPSpartacusCase" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

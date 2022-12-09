@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="messagecentercsoccaddonspring" name="messagecentercsoccaddonspring" removed="false">
+          <dependency>addonsupportspring==addonsupport</dependency>
+          <dependency>commercewebservicescommonsspring==commercewebservicescommons</dependency>
+          <dependency>messagecentercsfacadesspring==messagecentercsfacades</dependency>
+          <dependency>platformspring==platform</dependency>
+          <file>file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/resources/messagecentercsoccaddon-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsoccaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="commercewebservicescommons" exported="" />
+    <orderEntry type="module" module-name="messagecentercsfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>
