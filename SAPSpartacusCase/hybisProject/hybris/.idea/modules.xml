@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/Case/Case.iml" filepath="$PROJECT_DIR$/config/Case/Case.iml" group="Custom" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/acceleratorbackoffice.iml" filepath="$PROJECT_DIR$/idea-module-files/acceleratorbackoffice.iml" group="Hybris/core-accelerator" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/acceleratorcms.iml" filepath="$PROJECT_DIR$/idea-module-files/acceleratorcms.iml" group="Hybris/core-accelerator" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/acceleratorfacades.iml" filepath="$PROJECT_DIR$/idea-module-files/acceleratorfacades.iml" group="Hybris/core-accelerator" />
